@@ -7,7 +7,7 @@
 }
 
 body {
-     background: url(..//imagenes/renzler.gif);
+     background: url(..//imagenes/fondo.jpg);
      background-attachment: fixed;
     /*background: #0b2027;*/
     font-family: arial;
@@ -95,7 +95,7 @@ header nav {
 
 header nav a {
 
-    background: rgb(95, 46, 140);
+    background: #0d2c44;
     padding: 20px;
     position: relative;
     text-align: center;
